@@ -1,2 +1,2 @@
 # ToiletTycoon
-Advance Third Person Demo/Template Godot 4.3 
+A hilarious idle tycoon game with all the features! This is a fully functional game with upgrades, prestige system, dark mode, and sound effects.
